@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Dave",
+        "age": 50,
+        "telephone": [
+            {"work": "01234567890", "personal": "09876543210"}
+        ]
+    },
+    {
+        "name": "Sheila",
+        "age": 40,
+        "telephone": [
+            {"work": "01234567891", "personal": "09876543211"}
+        ]
+    }
+]
